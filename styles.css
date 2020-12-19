@@ -1,0 +1,150 @@
+html{
+    font-family: 'Asap', sans-serif;
+}
+ul{
+    list-style: none;
+}
+h1{
+    font-size: 50px;
+    margin-bottom: -15px;
+}
+#nav{
+    margin-bottom: 10px;
+}
+.nav{
+    display: inline-block;
+    font-size: 12px;
+}
+.nav-right{
+    float:right;
+    margin-right: 10px;
+    padding-top: 10px;
+}
+.nav-top{
+    padding-bottom: 10px;
+}
+.navLink{
+    display:inline-block;
+    color: rgb(245, 83, 3);
+}
+.navLink:hover{
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: #FFADAD;
+    text-decoration-thickness: .25em;
+    text-underline-offset: 4px;
+}
+.navLink a{
+    color: inherit;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: bolder;
+}
+.float-right{
+    display: inline-block;
+}
+.Other{
+    display:inline-block;
+    color: rgba(245, 83, 3, 60%);
+}
+.Account{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.terms{
+    color: grey;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.terms a{
+    text-decoration: underline;
+    color:inherit;
+}
+.product-ad{
+    background:linear-gradient(90deg, rgba(223,4,120,1) 26%, rgba(255,0,0,1) 100%);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: white;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.float-right-container{
+    display: contents;
+    float: right;
+}
+.float-left-container{
+    float: left;
+}
+.quick-sneaker-img{
+    width: 42em;
+    padding-left: 13em;
+    margin-right: 2em;
+}
+.quick-sneaker_above-text{
+    padding-bottom: 20px;
+    padding-left: 13em;
+    color: white;
+}
+.quick-sneaker-price{
+    display: contents;
+    margin-left: 49em;
+    margin-bottom: 1em;
+    font-family: "Varela Round";
+    font-weight: bold;
+    font-size: 2em;
+}
+.quick-sneaker-description{
+    width: 24em;
+    margin-left: 57em;
+    margin-bottom: 0;
+    line-height: 2.5em;
+}
+.quick-sneaker-buy-btn{
+    margin-left: 1em;
+    margin-bottom: 8em;
+}
+.main{
+    margin-bottom: 100px;
+}
+.article{
+    color: grey;
+}
+.advertize{
+    background:linear-gradient(90deg, rgba(223,4,120,1) 26%, rgba(255,0,0,1) 100%);
+}
+.sneak{
+    height: 150px;
+}
+.sneakad{
+    display: inline-block;
+    margin-left: 165px;
+}
+.mini{
+    color: #900C3F;
+}
+.reviews-link{
+    margin-left: 49em;
+}
+#icon {
+    height: 25px;
+}
+#icon-cart{
+    height:15px;
+}
+#rev-button{
+    margin-left:140px;
+    margin-top: 20px;
+}
+#Recommended{
+    text-align: center;
+    background-color: #F9E8EF;
+    padding: 15px;
+    margin-bottom: 0px;
+}
+#ship{
+    border-right: 1px solid;
+}
+#copy{
+    border-left: 1px solid;
+}
